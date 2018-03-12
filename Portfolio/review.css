@@ -9,6 +9,10 @@ body{
 h1{
 	text-align: center;
 }
+div .resume{
+	height: 975px;
+	overflow: scroll;
+}
 
 h1{
 	font-family: 'Roboto', sans-serif;
