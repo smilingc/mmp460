@@ -1,0 +1,72 @@
+/* reset browser defaults */
+*{
+	margin: 0;
+	padding: 0;
+}
+body{
+	background-color: #fede00;
+}
+h1{
+	text-align: center;
+}
+
+h1{
+	font-family: 'Roboto', sans-serif;
+	text-align: center;
+}
+.content{
+	font-family: 'Oxygen', sans-serif;
+}
+.containter{
+	width: 1000px; 
+	margin: 0 auto;
+	background-color: yellow;
+}
+.crisp{
+
+	padding-left: 400px;
+
+}
+
+.insta{
+	padding-left: 450px;
+	padding-bottom: 15px;
+}
+
+nav{
+	background-image:url("pics/header.png");
+	background-color: white; 
+	text-align: center;
+}
+nav ul{
+	list-style: none;
+}
+nav li{
+	display: inline;
+}
+nav a{
+	font-family: 'Roboto', sans-serif;
+	font-size: 25px;
+	display: inline-block;
+	padding: 30px;
+	color: #fdba09;
+	text-decoration: none;
+	text-transform: uppercase;
+}
+nav a:hover{
+	color: #fdba09;
+	background-color: black;
+	text-decoration: underline;
+}
+
+footer{
+font-family: 'Josefin Sans', sans-serif;
+	text-align: center;
+}
+
+
+.work img{
+	width: 100%;
+	border-color: #000000;
+	border-radius: 27px;
+}
